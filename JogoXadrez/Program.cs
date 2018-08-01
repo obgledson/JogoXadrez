@@ -16,7 +16,7 @@ namespace JogoXadrez
 
             Tela.imprimirTabuleiro(tab);
 
-            Console.ReadKey();
+            Console.ReadLine();
         }
     }
 }
